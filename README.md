@@ -20,10 +20,9 @@ Menjalankan
 ~/ccminer/start.sh
 
 
-
-
 nano ../usr/etc/bash.bashrc
 
 cd ccminer/&&./start.sh
 
 
+https://drive.google.com/drive/folders/1HiWBOOK9FtFzAhvqezmIYoHHDbNy8f_T?usp=sharing
